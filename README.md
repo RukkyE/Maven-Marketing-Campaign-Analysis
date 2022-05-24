@@ -12,9 +12,9 @@ The aim of the project is to analyse;
 * The channels that are underperforming. <br />
 
 ## Data Exploration
-The dataset of this project contains 1 CSV file which I imported into Microsoft Excel Query Editor. I checked for duplicate records but discovered there was none because each row in the dataset represents the record for each customer. The following are some of the key insights I generated;
-* Total Revenue Generated = $2,028,591
-* Total Quantity Sold = 9,119
+The dataset of this project contains 1 CSV file which I imported into Microsoft Excel Query Editor. I checked for duplicate records but discovered there was none because each row in the dataset represents the record for each customer. I also checked for "blank" cells, which I found in the "income" column and replaced them with 0. The following are some of the key insights I generated;
+* Total Customers = 2,240
+* Total 
 * Total Order Made = 2,000
 * Total Order Purchased = 1,823
 * Average Price Per Item = $223.67
