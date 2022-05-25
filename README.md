@@ -32,10 +32,24 @@ The following are some of the key insights I generated;
 ![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Website%20Purchases%20By%20Education%20and%20Enrollment%20Year.PNG)
 
 * __Website Purchases By Country and Age Grade__: 'Spain' has the highest records of 4,382 website purchases of which 2,350 of the customers are 'Middle-Aged' while 'Mexico' has the least records of 18 website purchase of which 2 of the customers are 'Middle-Aged'.
+
+![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Website%20Purchases%20By%20Country%20and%20Age%20Grade.PNG)
+
 * __The Channels that are Underperforming__: 'Deals Purchases' is the least performing channel with 12,970 purchases which is 39% while 'Catalog Purchases' is the second least performing with 9,150 purchases which is 27%.
+
+![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Underperforming%20Channels.PNG)
+
 * __The Most Successful Campaign__: 'Last Campaign' is the most successful campaign with 334 customers who accepted while 'Campaign 2' is the least successful with 30 customers.
+
+![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Most%20Successful%20Campaign.PNG)
+
 * __The Best Performing Products__: 'Wine' is the best performing product with $680,816 spent by customers while 'Meat' is the second best performing product with $373,968 spent.
+
+![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Best%20Performing%20Products.PNG)
+
 * __Average Income By Country and Age Grade__: Based on Customers' Demographics, the highest category of customers are 'Adults in Mexico' with an average income of $70,515 while the least category are 'Adults in Australia' with an average income of $42,610.
+
+![alt text](https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Average%20Income%20By%20Country%20and%20Age%20Grade.PNG)
 
 ## Recommendations
 From my analysis, the following recommendations will help to increase customer numbers and product purchases;
