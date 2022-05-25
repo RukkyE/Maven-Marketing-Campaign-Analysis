@@ -28,6 +28,9 @@ The following are some of the key insights I generated;
 
 ## Insights From My Analysis
 * __Website Purchases By Education and Enrollment Year__: 'Graduation' level customers who enrolled in 2013 have the highest records of 2,527 website purchases while 'Basic' level customers who enrolled in 2014 has the least records of 16 website purchases.
+
+![alt text]https://github.com/RukkyE/Maven-Marketing-Campaign-Analysis/blob/main/Images/Website%20Purchases%20By%20Education%20and%20Enrollment%20Year.PNG
+
 * __Website Purchases By Country and Age Grade__: 'Spain' has the highest records of 4,382 website purchases of which 2,350 of the customers are 'Middle-Aged' while 'Mexico' has the least records of 18 website purchase of which 2 of the customers are 'Middle-Aged'.
 * __The Channels that are Underperforming__: 'Deals Purchases' is the least performing channel with 12,970 purchases which is 39% while 'Catalog Purchases' is the second least performing with 9,150 purchases which is 27%.
 * __The Most Successful Campaign__: 'Last Campaign' is the most successful campaign with 334 customers who accepted while 'Campaign 2' is the least successful with 30 customers.
